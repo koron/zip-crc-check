@@ -1,0 +1,11 @@
+# ZIP CRC32 Checker
+
+zip-crc-check checks CRC32 codes for each files in zip files.
+
+How to install
+
+    $ go install github.com/koron/zip-crc-check
+
+How to use
+
+    $ zip-crc-check *.zip
